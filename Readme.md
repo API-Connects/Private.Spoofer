@@ -11,7 +11,6 @@ SPOOFER
 - Username and password are used for logging in to Loader.
 ---
 
----
 
 ### 🔎 〢 Hardware ID 
 
