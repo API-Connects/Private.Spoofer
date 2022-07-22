@@ -36,3 +36,10 @@ HWID :
 WINVER : 
 
 ---
+
+- Spoofer will take 5-6 hours to create. 
+  
+- Once the product is finished we will ship it to you immediately.
+  
+  ---
+  
