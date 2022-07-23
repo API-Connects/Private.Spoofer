@@ -41,5 +41,5 @@ WINVER :
   
 - Once the product is finished we will ship it to you immediately.
   
-  ---
+ ---
   
