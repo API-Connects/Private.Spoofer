@@ -42,4 +42,18 @@ WINVER :
 - Once the product is finished we will ship it to you immediately.
   
  ---
+ 
+ Example 
+
+GAME : Valorant
+
+USERNAME & PASSWORD : sarnax / toq1022  
+
+HWID : SCSI\DiskBIOSTAR_______S100-240GBR081
+
+WINVER :
+  
+  ![image](https://user-images.githubusercontent.com/94861415/182467564-d2b46cb3-930e-4428-90b5-467533a5377d.png)
+
+
   
