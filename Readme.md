@@ -45,7 +45,7 @@ WINVER :
  
  Example 
 
-GAME : Valorant
+GAME : Valorant Spoofer
 
 USERNAME & PASSWORD : sarnax / toq1022  
 
