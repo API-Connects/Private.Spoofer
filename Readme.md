@@ -19,6 +19,19 @@ SPOOFER
 - ❌ Spoofer does not affect the hardware ID we need because it is a hardware ID that cannot be changed. so don't worry 
 ---
 
+
+### 🔒〢 CPU Z (motherboard)
+
+- Download Here [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
+
+- OPEN PROGRAM > MAINBIARD > SCREENSHOT AND SEND ME
+
+![image](https://user-images.githubusercontent.com/94861415/183123379-8db70c40-e242-42d1-a78c-a54a6e01fb3f.png)
+
+---
+
+
+
 ### 📁 〢 Winver
 
 - WINDOWS + R | WINVER & OK | SCREENSHOT AND SEND 
