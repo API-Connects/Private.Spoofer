@@ -70,7 +70,7 @@ Example
 
 GAME : Valorant Spoofer
 
-USERNAME & PASSWORD : sarnax / toq1022  
+USERNAME & PASSWORD : fnoberz / toq1022  
 
 HWID : SCSI\DiskBIOSTAR_______S100-240GBR081
 
