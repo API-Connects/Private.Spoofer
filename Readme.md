@@ -21,9 +21,11 @@
 
 ### 🔎 〢 Hardware ID 
 
-- Send us your hardware because we need it to lock the program. [VIDEOS](https://youtu.be/WjtAUCDMihQ)
-- If the Hardware ID is more than 3 , you select the 1st one.
-- ❌ Spoofer does not affect the hardware ID we need because it is a hardware ID that cannot be changed. so don't worry 
+### 🔎 〢 Hardware ID 
+
+## ❌ Do not submit / We have updated the new Loader version.
+
+- When you log in to Loader, your HWID will be instantly locked.
 ---
 
 
@@ -59,8 +61,6 @@ EXTERNAL & INTERNAL:
 
 FEATURE: 
 
-HWID: 
-
 WINVER: 
 ```
 ---
@@ -71,8 +71,6 @@ Example
 GAME : Valorant Spoofer
 
 USERNAME & PASSWORD : fnoberz / toq1022  
-
-HWID : SCSI\DiskBIOSTAR_______S100-240GBR081
 
 WINVER :
   
