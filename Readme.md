@@ -21,8 +21,6 @@
 
 ### 🔎 〢 Hardware ID 
 
-### 🔎 〢 Hardware ID 
-
 ## ❌ Do not submit / We have updated the new Loader version.
 
 - When you log in to Loader, your HWID will be instantly locked.
